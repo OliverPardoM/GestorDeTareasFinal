@@ -5,8 +5,10 @@ Aplicación completa para la gestión de tareas personales con autenticación de
 ## 📁 Estructura del Proyecto
 
 GestorTareasFinal/
-├── backend-gestor/ # API REST con Node.js, Express, Sequelize y JWT
-├── frontend-gestor/ # Aplicación web en React con TailwindCSS
+
+1) backend-gestor/ # API REST con Node.js, Express, Sequelize y JWT
+
+2) frontend-gestor/ # Aplicación web en React con TailwindCSS
 
 ## 🚀 Instalación
 
