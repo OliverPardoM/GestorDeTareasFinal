@@ -1,0 +1,24 @@
+{
+  "development": {
+  "username": "postgres",
+  "password": "Oliver2025.",
+  "database": "gestor-tareas",
+  "host": "127.0.0.1",
+  "dialect": "postgres"
+  },
+  "test": {
+  "username": "postgres",
+  "password": "Oliver2025.",
+  "database": "gestor-tareas_test",
+  "host": "127.0.0.1",
+  "dialect": "postgres"
+  },
+  "production": {
+  "username": "postgres",
+  "password": "Oliver2025.",
+  "database": "gestor-tareas_prod",
+  "host": "127.0.0.1",
+  "dialect": "postgres"
+  }
+}
+ 
