@@ -40,7 +40,7 @@ exports.obtenerTareas = async (req, res) => {
       }
   
       if (dueDate) {
-        filtros.dueDate = dueDate; // fecha exacta
+        filtros.dueDate = dueDate;
       }
   
       if (from || to) {
